@@ -1,0 +1,8 @@
+{"data":[{"id":1,"attributes":{"Name":"Apples","Country":"Italy","Cost":3,"Instonk":10,"createdAt":"2022-01-27T03:23:05.549Z",
+"updatedAt":"2022-01-27T03:35:14.643Z","publishedAt":"2022-01-27T03:35:14.640Z","locale":"en"}},{"id":2,"attributes":
+{"Name":"Oranges","Country":"Spain","Cost":4,"Instonk":3,"createdAt":"2022-01-27T03:24:18.647Z","updatedAt":"2022-01-27T03:35:38.413Z",
+"publishedAt":"2022-01-27T03:35:38.412Z","locale":"en"}},{"id":3,"attributes":{"Name":"Beans",
+"Country":"USA","Cost":2,"Instonk":8,"createdAt":"2022-01-27T03:25:17.009Z","updatedAt":"2022-01-27T03:35:26.569Z",
+"publishedAt":"2022-01-27T03:35:26.567Z","locale":"en"}},{"id":4,"attributes":{"Name":"Cabbage",
+"Country":"USA","Cost":1,"Instonk":8,"createdAt":"2022-01-27T03:26:10.616Z","updatedAt":"2022-01-27T03:35:34.358Z",
+"publishedAt":"2022-01-27T03:35:34.356Z","locale":"en"}}],"meta":{"pagination":{"page":1,"pageSize":25,"pageCount":1,"total":4}}}
